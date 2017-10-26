@@ -41,11 +41,11 @@
 - Github: 25$/month first five users + 9$ / user / month
 
 
-# Pricing
+# Pricing comparison
 
-### Scenario
+### Actual scenario
 - (8 users) Guillaume, Jason, LP, Maxime, Mark, PL, Robert, Tom
-- 1500 build minutes (~50 minutes / day)
+- max 1500 build minutes (~50 minutes / day)
 
 ### Total
 - ***Jira + Github + Jenkins:*** 25$ + (3 users * 9$) = *52$ / month + 9$ / futur user*
