@@ -44,9 +44,9 @@
 # Pricing comparison
 
 ### Actual scenario
-- (8 users) Guillaume, Jason, LP, Maxime, Mark, PL, Robert, Tom
+- (10 users) Guillaume, Jason, LP, Mark, Marcel, Maxime, PL, Robert, Sandrine, Tom
 - max 1500 build minutes (~50 minutes / day)
 
 ### Total
-- ***Jira + Github + Jenkins:*** 25$ + (3 users * 9$) = *52$ / month + 9$ / futur user*
-- ***Jira + Bitbucket + Pipeline:*** 8 users * 2$ + 10$(1000 build minutes) = *26$ / month + 2$ futur user*
+- ***Jira + Github + Jenkins:*** 25$ + (5 users * 9$) = *70$ / month + 9$ / futur user*
+- ***Jira + Bitbucket + Pipeline:*** 10 users * 2$ + 10$(1000 build minutes) = *30$ / month + 2$ futur user*
